@@ -132,7 +132,7 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: lighten($brand-color, 20%);
+    color: darken($brand-color, 20%);
     //border-left: 4px solid $grey-color-light;
     //padding-left: $spacing-unit / 2;
     //font-size: 18px;
