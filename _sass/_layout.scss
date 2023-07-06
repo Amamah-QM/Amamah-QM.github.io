@@ -264,7 +264,7 @@
 
 .slide-menu {
   display: block;
-  background-color: $brand-color;
+  background-color: lighten($brand-color; 20%);
   //padding-bottom: 1.5em;
   transition: 0.3s;
   transform: perspective(1000px) translate3d(0,10px,-10px);
