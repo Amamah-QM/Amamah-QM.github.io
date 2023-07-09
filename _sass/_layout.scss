@@ -485,7 +485,7 @@ Hero images on audio guide stop pages
 }
 
 .post-hero-image {
-    width: 100%;
+    width: 50%;
     //max-height: 300px;
     padding: 0 0;
     margin: 0 auto 0 auto;
@@ -494,7 +494,7 @@ Hero images on audio guide stop pages
     text-align: center;
 
     img {
-        width: 50%;
+        width: 100%;
         max-width: 512px;
         height: auto;
         display: inline-block;
